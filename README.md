@@ -1,3 +1,4 @@
+![KDDC's GitHub stats](https://github-readme-stats.vercel.app/api?username=kddco&theme=dark&show_icons=true)
 ### Hi there 👋
 ### Hello i am KDDC
 <!--
