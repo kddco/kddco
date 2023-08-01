@@ -1,7 +1,7 @@
 ![KDDC's GitHub stats](https://github-readme-stats.vercel.app/api?username=kddco&theme=dark&show_icons=true)
 ### Hi there 👋
 ### Hello i am KDDC
-I am a boring guy who thinks about bypassing EDR (Endpoint Detection and Response) all day long. I enjoy exploring new knowledge in cybersecurity, with a particular interest in blue defense and server deployment research. What I love even more is sharing my learning experiences and knowledge on Hackmd or GitHub, where I often showcase my own homemade tools.
+I am a boring guy who thinks about bypassing EDR all day long. I enjoy exploring new knowledge in cybersecurity, with a particular interest in blue defense and server deployment research. What I love even more is sharing my learning experiences and knowledge on Hackmd or GitHub, where I often showcase my own homemade tools.
 <!--
 **kddco/kddco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
